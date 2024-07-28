@@ -11,20 +11,28 @@
 ### Who am I? 🤔
 
   My name is Brianna Matey, and I am a rising sophomore at ***Boston University*** 🐶, graduating May 2027. 🥳 
-### What do I do 🏃🏾‍♀️
+  
+### What do I do on GitHub🏃🏾‍♀️
   I love to create fun coding projects that helps me express my creative interests and growwing passions 🪄
+  <img src= "https://raw.githubusercontent.com/briannammatey/briannammatey/main/penguin.webp" alt="GIF" width="60">
 
 ### My interests 💭
   I am interested in learning more about Software Engineering, Artificial Intelligence, Game Development, Android Development and IOS Development.
 
 ### My goals 🏆
-    My goal in Computer Science is to not only express my creativity through complex developments, but also to create a ever-lasting impact for many.
+  My goal in Computer Science is to not only express my creativity through complex developments, but also to create a ever-lasting impact for many.
 
 ### My Skills 🎡
   I am profficient in Python and Java. Through this I gained skills in data structures and algorithums, object-orientated programing, graphical user interface, and many more/\.
 
 ### Fun Fact 🤸🏾‍♀️
 I ***love*** to paint 🎨, I am mostly self taught, and it is something that I like to do for fun. 
+<img src= "https://raw.githubusercontent.com/briannammatey/briannammatey/main/paint.webp" alt="GIF" width="40">
+
+### My Information 
+<a href= "https://www.linkedin.com/in/brianna-matey-750381295/">
+<img src = "https://raw.githubusercontent.com/briannammatey/briannammatey/main/paint.webp" width =40 >
+</a>
   
 
 
