@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/briannammatey/briannammatey/main/Tech.png" alt="Header" width="700"/>
+</p>
+
+
+
 # Hi there 🌺 😌 👋🏾
 
 ### Who am I? 🤔
@@ -24,6 +30,12 @@
 
 
 <!--
+<p align="center">
+  <img src="https://raw.githubusercontent.com/briannammatey/briannammatey/main/Tech.png" alt="Header" width="600"/>
+</p>
+
+![Header](https://raw.githubusercontent.com/briannammatey/briannammatey/main/Tech.png "Header")
+
 **briannammatey/briannammatey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
