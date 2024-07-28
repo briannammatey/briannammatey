@@ -5,8 +5,15 @@
 
 
 # Hi there 🌺 😌 👋🏾 <img src= "https://raw.githubusercontent.com/briannammatey/briannammatey/main/doggy.webp" alt="GIF" width="50">
+### My Information🌟
+
+🖥️ [Email](briannammatey@gmail.com) | 
+⌚️ [Linkedin](https://www.linkedin.com/in/brianna-matey-750381295) | 
+📝 [My Resume](https://docs.google.com/document/d/1xUiJNQGOwC6ZYSpL6eJ4km9Lc36Vp0imf5ZWAPfb_ck/edit?usp=sharing)
 
 
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=briannammatey&theme=dracula" />
 
 ### Who am I? 🤔
 
@@ -25,23 +32,27 @@
 ### My Skills 🎡
   I am profficient in Python and Java. Through this I gained skills in data structures and algorithums, object-orientated programing, graphical user interface, and many more/\.
 
-### Fun Fact 🤸🏾‍♀️
-I ***love*** to paint 🎨, I am mostly self taught, and it is something that I like to do for fun. 
-<img src= "https://raw.githubusercontent.com/briannammatey/briannammatey/main/paint.webp" alt="GIF" width="40">
-
-### My Information 
-<a href= "https://www.linkedin.com/in/brianna-matey-750381295/">
-<img src = "https://raw.githubusercontent.com/briannammatey/briannammatey/main/paint.webp" width =40 >
-</a>
-  
+### Fun Facts about me  🤸🏾‍♀️
+- I **love** to paint 🎨, I am mostly self taught, and it is something that I like to do for fun. <img src= "https://raw.githubusercontent.com/briannammatey/briannammatey/main/paint.webp" alt="GIF" width="40">
+- I am Ghanaian, and I have grown up with Ghanaian traditions and customs my whole life 🇬🇭 ❤️
+- I love to cook, and my favorite dish to coook is jollof rice🍛
 
 
-
-  
   
 
 
 <!--
+
+<br>
+<a href= "https://www.linkedin.com/in/brianna-matey-750381295/">
+  
+<img src = "https://raw.githubusercontent.com/briannammatey/briannammatey/main/RIefvk9.png" width =80 >
+</a>
+
+<a href ="https://docs.google.com/document/d/1xUiJNQGOwC6ZYSpL6eJ4km9Lc36Vp0imf5ZWAPfb_ck/edit?usp=sharing" >
+<p allign = left>My Resume</p>
+</a>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/briannammatey/briannammatey/main/Tech.png" alt="Header" width="600"/>
 </p>
