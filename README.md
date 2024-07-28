@@ -7,7 +7,7 @@
 # Hi there 🌺 😌 👋🏾 <img src= "https://raw.githubusercontent.com/briannammatey/briannammatey/main/doggy.webp" alt="GIF" width="50">
 ### My Information🌟
 
-🖥️ [Email](briannammatey@gmail.com) | 
+🖥️ [Email](mailto:briannammatey@gmail.com) | 
 ⌚️ [Linkedin](https://www.linkedin.com/in/brianna-matey-750381295) | 
 📝 [My Resume](https://docs.google.com/document/d/1xUiJNQGOwC6ZYSpL6eJ4km9Lc36Vp0imf5ZWAPfb_ck/edit?usp=sharing)
 
@@ -43,21 +43,7 @@
 
 <!--
 
-<br>
-<a href= "https://www.linkedin.com/in/brianna-matey-750381295/">
-  
-<img src = "https://raw.githubusercontent.com/briannammatey/briannammatey/main/RIefvk9.png" width =80 >
-</a>
 
-<a href ="https://docs.google.com/document/d/1xUiJNQGOwC6ZYSpL6eJ4km9Lc36Vp0imf5ZWAPfb_ck/edit?usp=sharing" >
-<p allign = left>My Resume</p>
-</a>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/briannammatey/briannammatey/main/Tech.png" alt="Header" width="600"/>
-</p>
-
-![Header](https://raw.githubusercontent.com/briannammatey/briannammatey/main/Tech.png "Header")
 
 **briannammatey/briannammatey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
