@@ -23,7 +23,7 @@
   I love to create fun coding projects that helps me express my creative interests and growing passions 🪄
   <img src= "https://raw.githubusercontent.com/briannammatey/briannammatey/main/penguin.webp" alt="GIF" width="60">
 ### What am I doing for work?
-I am currently interning at Lavner Education Tech Revolution summer camps 🍭 where I am teaching kids coding fundamentals. Through this I not only spark kids love for coding, but I also learn better about different coding fundamentals.
+I am currently interning at Lavner Education Tech Revolution summer camps 🍭 where I am teaching kids coding fundamentals. Through this I not only spark kids love for coding, but I also learn better about different coding concepts.
  <img src= "https://raw.githubusercontent.com/briannammatey/briannammatey/main/teacher.webp" alt="GIF" width="50">
 
 ### My interests 💭
