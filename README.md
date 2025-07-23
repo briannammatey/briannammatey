@@ -17,7 +17,7 @@
 
 ### Who am I? 🤔
 
-  My name is Brianna Matey, and I am a rising sophomore at ***Boston University*** 🐶, graduating May 2027. 🥳 
+  My name is Brianna Matey, and I am a rising junior at ***Boston University*** 🐶, graduating May 2027. 🥳 
   
 ### What do I do on GitHub🏃🏾‍♀️
   I love to create fun coding projects that helps me express my creative interests and growing passions 🪄
