@@ -9,7 +9,7 @@
 
 🖥️ [Email](mailto:briannammatey@gmail.com) | 
 ⌚️ [Linkedin](https://www.linkedin.com/in/brianna-matey-750381295) | 
-📝 [My Resume](https://docs.google.com/document/d/1xUiJNQGOwC6ZYSpL6eJ4km9Lc36Vp0imf5ZWAPfb_ck/edit?usp=sharing)
+📝 [My Resume](https://docs.google.com/document/d/1YJcSClAs7slSSmB92RNw1apc8Ry1pXOpSKbXLrc0A_k/edit?usp=sharing)
 
 
 
@@ -23,7 +23,7 @@
   I love to create fun coding projects that helps me express my creative interests and growing passions 🪄
   <img src= "https://raw.githubusercontent.com/briannammatey/briannammatey/main/penguin.webp" alt="GIF" width="60">
 ### What am I doing for work?
-I am currently interning at Lavner Education Tech Revolution summer camps 🍭 where I am teaching kids coding fundamentals. Through this I not only spark kids love for coding, but I also learn better about different coding concepts.
+I am currently interning at CBites  🍭 I collaborate with a team to develop a full-stack food delivery application that makes food deliveries more affordable for consumers. I worked on building and testing mobile features and improving app performance. 
  <img src= "https://raw.githubusercontent.com/briannammatey/briannammatey/main/teacher.webp" alt="GIF" width="50">
 
 ### My interests 💭
@@ -33,7 +33,7 @@ I am currently interning at Lavner Education Tech Revolution summer camps 🍭 w
   My goal in Computer Science is to not only express my creativity through complex developments, but also to create a ever-lasting impact for many.
 
 ### My Skills 🎡
-  I am profficient in Python and Java. Through this I gained skills in data structures and algorithums, object-orientated programing, graphical user interface, and many more/\.
+  I am profficient in Python and Java, C, HTML, CSS and Javascript. Through this I gained skills in data structures and algorithums, object-orientated programing, computer systems, ad more
 
 ### Fun Facts about me  🤸🏾‍♀️
 - I **love** to paint 🎨, I am mostly self taught, and it is something that I like to do for fun. <img src= "https://raw.githubusercontent.com/briannammatey/briannammatey/main/paint.webp" alt="GIF" width="40">
