@@ -33,12 +33,12 @@ I am currently interning at CBites  🍭 I collaborate with a team to develop a 
   My goal in Computer Science is to not only express my creativity through complex developments, but also to create a ever-lasting impact for many.
 
 ### My Skills 🎡
-  I am profficient in Python and Java, C, HTML, CSS and Javascript. Through this I gained skills in data structures and algorithums, object-orientated programing, computer systems, ad more
+  I am proficient in Python and Java, C, HTML, CSS and Javascript. Through this I gained skills in data structures and algorithums, object-orientated programing, computer systems, ad more
 
 ### Fun Facts about me  🤸🏾‍♀️
 - I **love** to paint 🎨, I am mostly self taught, and it is something that I like to do for fun. <img src= "https://raw.githubusercontent.com/briannammatey/briannammatey/main/paint.webp" alt="GIF" width="40">
 - I am Ghanaian, and I have grown up with Ghanaian traditions and customs my whole life 🇬🇭 ❤️
-- I love to cook, and my favorite dish to coook is jollof rice🍛
+- I love to cook ! 🍛
 
 
   
