@@ -27,7 +27,7 @@ I am currently interning at CBites  🍭 I collaborate with a team to develop a 
  <img src= "https://raw.githubusercontent.com/briannammatey/briannammatey/main/teacher.webp" alt="GIF" width="50">
 
 ### My interests 💭
-  I am interested in learning more about Software Engineering, Artificial Intelligence, Game Development, Android Development and IOS Development.
+  I am interested in learning more about Software Engineering, Artificial Intelligence, Web Application Devlopment,  Android Development and IOS Development.
 
 ### My goals 🏆
   My goal in Computer Science is to not only express my creativity through complex developments, but also to create a ever-lasting impact for many.
