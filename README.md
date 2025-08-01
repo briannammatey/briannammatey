@@ -9,7 +9,7 @@
 
 🖥️ [Email](mailto:briannammatey@gmail.com) | 
 ⌚️ [Linkedin](https://www.linkedin.com/in/brianna-matey-750381295) | 
-📝 [My Resume](https://docs.google.com/document/d/1YJcSClAs7slSSmB92RNw1apc8Ry1pXOpSKbXLrc0A_k/edit?usp=sharing)
+📝 [My Resume](https://github.com/briannammatey/briannammatey/raw/main/AugBeg2025_BriannaMateyResume.pdf)
 
 
 
